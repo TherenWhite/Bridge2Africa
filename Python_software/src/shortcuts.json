@@ -9,5 +9,5 @@
     "speak": "shift+space",
     "brailleQuit": "shift+q",
     "brailleContiue": "shift+w",
-    "speed": "50"
+    "speed": 30
 }

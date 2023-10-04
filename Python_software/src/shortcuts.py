@@ -61,6 +61,7 @@ def buttons():
 
         if (ser_data == b'0\r\n'):
             flag = True
+
 def getBrowserOpen():
     global IS_BROWSER_OPEN
 
